@@ -137,7 +137,6 @@ Open `dashboard/airline_analytics_portfolio.html` in any browser.
 - 📧 [prachi7.work@gmail.com](mailto:prachi7.work@gmail.com)
 - 💼 [linkedin.com/in/prachi252](https://www.linkedin.com/in/prachi252/)
 - 🐙 [github.com/Prachi0259](https://github.com/Prachi0259)
-- 
 
 ---
 
